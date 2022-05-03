@@ -1,0 +1,12 @@
+/home/juani/Rust/RustExamples/rustlings/target/release/deps/proc_macro2-ea2acdfa29317111.rmeta: /home/juani/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.37/src/lib.rs /home/juani/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.37/src/marker.rs /home/juani/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.37/src/parse.rs /home/juani/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.37/src/detection.rs /home/juani/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.37/src/fallback.rs /home/juani/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.37/src/wrapper.rs
+
+/home/juani/Rust/RustExamples/rustlings/target/release/deps/libproc_macro2-ea2acdfa29317111.rlib: /home/juani/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.37/src/lib.rs /home/juani/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.37/src/marker.rs /home/juani/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.37/src/parse.rs /home/juani/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.37/src/detection.rs /home/juani/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.37/src/fallback.rs /home/juani/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.37/src/wrapper.rs
+
+/home/juani/Rust/RustExamples/rustlings/target/release/deps/proc_macro2-ea2acdfa29317111.d: /home/juani/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.37/src/lib.rs /home/juani/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.37/src/marker.rs /home/juani/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.37/src/parse.rs /home/juani/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.37/src/detection.rs /home/juani/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.37/src/fallback.rs /home/juani/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.37/src/wrapper.rs
+
+/home/juani/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.37/src/lib.rs:
+/home/juani/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.37/src/marker.rs:
+/home/juani/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.37/src/parse.rs:
+/home/juani/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.37/src/detection.rs:
+/home/juani/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.37/src/fallback.rs:
+/home/juani/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.37/src/wrapper.rs:

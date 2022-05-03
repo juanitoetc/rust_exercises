@@ -1,0 +1,13 @@
+/home/juani/Rust/RustExamples/rustlings/target/release/deps/console-e97238e544411a34.rmeta: /home/juani/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/lib.rs /home/juani/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/common_term.rs /home/juani/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/kb.rs /home/juani/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/term.rs /home/juani/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/unix_term.rs /home/juani/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/utils.rs /home/juani/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/ansi.rs
+
+/home/juani/Rust/RustExamples/rustlings/target/release/deps/libconsole-e97238e544411a34.rlib: /home/juani/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/lib.rs /home/juani/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/common_term.rs /home/juani/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/kb.rs /home/juani/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/term.rs /home/juani/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/unix_term.rs /home/juani/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/utils.rs /home/juani/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/ansi.rs
+
+/home/juani/Rust/RustExamples/rustlings/target/release/deps/console-e97238e544411a34.d: /home/juani/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/lib.rs /home/juani/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/common_term.rs /home/juani/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/kb.rs /home/juani/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/term.rs /home/juani/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/unix_term.rs /home/juani/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/utils.rs /home/juani/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/ansi.rs
+
+/home/juani/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/lib.rs:
+/home/juani/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/common_term.rs:
+/home/juani/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/kb.rs:
+/home/juani/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/term.rs:
+/home/juani/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/unix_term.rs:
+/home/juani/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/utils.rs:
+/home/juani/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.0/src/ansi.rs:
