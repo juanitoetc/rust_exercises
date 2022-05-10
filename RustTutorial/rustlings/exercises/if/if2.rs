@@ -7,11 +7,20 @@
 // I AM NOT DONE
 
 pub fn fizz_if_foo(fizzish: &str) -> &str {
+    /*
+        It is important that each conditional returns the proper type.
+        Can use multiple conditions by combining "if" and "else" 
+        in an "else if" expression.
+
+        See the testcases to check the return string needed.
+    */
     if fizzish == "fizz" {
         "foo"
+    } else if fizzish == "fuzz" {
+        "bar"
     } else {
-        1
-    }
+        "baz"
+    } 
 }
 
 // No test changes needed!

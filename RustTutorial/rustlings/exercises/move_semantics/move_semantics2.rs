@@ -6,8 +6,9 @@
 
 fn main() {
     let vec0 = Vec::new();
-
-    let mut vec1 = fill_vec(vec0);
+    /* To deep copy the heap data (and not only stack), use clone */
+    let vec0_2 = vec0.clone();
+    let mut vec1 = fill_vec(vec0_2);
 
     // Do not change the following line!
     println!("{} has length {} content `{:?}`", "vec0", vec0.len(), vec0);

@@ -11,7 +11,11 @@ fn main() {
     println!("Your sale price is {}", sale_price(original_price));
 }
 
-fn sale_price(price: i32) -> {
+fn sale_price(price: i32) -> i32 {
+    /*
+        Functions can return values to the code that calls them. 
+        Don’t name return values, but declare their type after an arrow (->).
+    */
     if is_even(price) {
         price - 10
     } else {

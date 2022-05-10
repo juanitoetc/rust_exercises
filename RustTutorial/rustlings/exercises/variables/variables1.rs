@@ -5,6 +5,9 @@
 // I AM NOT DONE
 
 fn main() {
-    x = 5;
+    let x = 5;
+    /* Use the let statement to create the variable. 
+    In Rust, variables are immutable by default. 
+    */
     println!("x has the value {}", x);
 }
